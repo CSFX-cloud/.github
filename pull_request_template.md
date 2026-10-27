@@ -2,7 +2,7 @@
 
 ## Verknuepfte Tickets
 
-Closes CSFX-cloud/CSFX-DOCS#
+Closes CSFX-cloud/Projects#
 
 ## Checkliste
 
